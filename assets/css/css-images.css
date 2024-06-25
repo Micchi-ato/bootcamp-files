@@ -1,0 +1,14 @@
+.announcement{
+    height: 1000px;
+    background-image: url('../image/pexels-cottonbro-6594253.jpg');
+    background-position: center;
+    background-size: cover;
+    background-attachment: scroll;
+
+}
+
+.announcement *{
+    text-align: center;
+    color: #e5e5e5;
+    font-family: sans-serif;
+}
