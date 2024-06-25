@@ -1,0 +1,23 @@
+div{
+    width: 300px ;
+    height: 300px;
+}
+.box1{
+    background-color: aqua;
+    float: left;
+    clear: right;
+}
+.box2{
+    background-color: blueviolet;
+    float: left;
+    clear: left;
+}
+.box3{
+    background-color: blanchedalmond;
+    float: right;
+}
+
+.box4{
+    background-color: brown;
+    float: left;
+}
